@@ -1,1 +1,1 @@
-<kbd> <img src="cesp.jpg"/> </kbd>
+<kbd> <img src=".github/profile/cesp.jpg"/> </kbd>
