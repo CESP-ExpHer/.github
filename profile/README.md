@@ -1,1 +1,1 @@
-<kbd> <img src="profile/cesp1.jpg"/> </kbd>
+<kbd> <img src="profile/cesp2.jpg"/> </kbd>
