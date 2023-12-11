@@ -1,6 +1,8 @@
 ## GitHub Page of Exposome and Heredity Team at CESP
 
-This is the GitHub page for the Exposome and Heredity Team at Centre for Epidemiology and Population Health (CESP), France.<br>
+This is the GitHub page for the Exposome and Heredity Team at Centre for Epidemiology and Population Health (CESP), France.
+<br>
+<br>
 https://cesp.inserm.fr/en/equipe/exposome-and-heredity
 <br>
 <br>
@@ -36,6 +38,3 @@ Here are some of our most popular repositories and a brief description:
 | [UKBB Procedure](https://github.com/CESP-ExpHer/UKBB-PROCEDURES) **(Private)** | Some tutorials describing procedures for working with the UKBB |
 | [Working with Server](https://github.com/CESP-ExpHer/Working_with_Server) **(Private)** | some information for the ones who want to work on the CESP-ExpHer Linux Server |
 
-
-
-<kbd> <img src="profile/cesp2.jpg"/> </kbd>
