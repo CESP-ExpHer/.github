@@ -14,7 +14,7 @@ Here are some of our most popular repositories and a brief description:
 | [Annotate GWAS Data](https://github.com/CESP-ExpHer/Gene_Annotation) | Annotation of GWAS data using an annotation file: A comprehensive survey considering annotation files from different databases |
 | [ANNOVAR](https://github.com/CESP-ExpHer/Tutorial_ANNOVAR) | A tool for Functional annotation of genetic variants |
 | [ASSET](https://github.com/CESP-ExpHer/Tutorial_ASSET) | ASSET for exploring Pleiotropy |
-| [Docker](https://github.com/CESP-ExpHer/Tutorial_Docker) **(Private)** | Tutorial for working with Docker |
+| [Docker](https://github.com/CESP-ExpHer/Tutorial_Docker)**(Private)** | Tutorial for working with Docker |
 | [EPIC](https://github.com/CESP-ExpHer/Association-test-on-EPIC) **(Private)** | Association tests results on EPIC data |
 | [Epithyr Info](https://github.com/CESP-ExpHer/Association-test-on-Epithyr) **(Private)** | Association tests results on Epithyr data (different versions) |
 | [Epithyr-EPIC](https://github.com/CESP-ExpHer/Meta-analysis-Epithyr-EPIC) **(Private)** | Meta-analysis result of Epithyr and EPIC data |
