@@ -9,10 +9,10 @@ https://cesp.inserm.fr/en/equipe/exposome-and-heredity
 
 Here are some of our most popular repositories and a brief description:
 
-| Title                                                                                                                                          | Description                                                            |
+| Pipelines                                                                                                                                          | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | [GCPBays Pipeline](https://github.com/CESP-ExpHer/GCPBayes-Pipeline) | GCPBayes Pipeline is a tool for exploring pleiotropy at gene-level |
-| **Some Tutorials** |   |
+| **Tutorials** | **Description** |
 | [Annotate GWAS Data](https://github.com/CESP-ExpHer/Gene_Annotation) | Annotation of GWAS data using an annotation file: A comprehensive survey considering annotation files from different databases |
 | [ANNOVAR](https://github.com/CESP-ExpHer/Tutorial_ANNOVAR) | A tool for Functional annotation of genetic variants |
 | [ASSET](https://github.com/CESP-ExpHer/Tutorial_ASSET) | ASSET for exploring Pleiotropy |
