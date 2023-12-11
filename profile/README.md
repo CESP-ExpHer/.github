@@ -9,18 +9,22 @@ Here are some of our most popular repositories and a brief description:
 
 | Title                                                                                                                                          | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| [GCPBays Pipeline](https://github.com/CESP-ExpHer/GCPBayes-Pipeline)| GCPBayes Pipeline is a tool for exploring pleiotropy at gene-level |
+| [GCPBays Pipeline](https://github.com/CESP-ExpHer/GCPBayes-Pipeline) **(Public)**| GCPBayes Pipeline is a tool for exploring pleiotropy at gene-level |
 | **Some Tutorials** |   |
 | [Annotate GWAS Data](https://github.com/CESP-ExpHer/Gene_Annotation) | Annotation of GWAS data using an annotation file: A comprehensive survey considering annotation files from different databases |
 | [ANNOVAR](https://github.com/CESP-ExpHer/Tutorial_ANNOVAR) | A tool for Functional annotation of genetic variants |
 | [ASSET](https://github.com/CESP-ExpHer/Tutorial_ASSET) | ASSET for exploring Pleiotropy |
 | [Docker](https://github.com/CESP-ExpHer/Tutorial_Docker) | Tutorial for working with Docker |
+| [EPIC](https://github.com/CESP-ExpHer/Association-test-on-EPIC) | Association tests results on EPIC data |
+| [Epithyr Info](https://github.com/CESP-ExpHer/Association-test-on-Epithyr) | Association tests results on Epithyr data (different versions) |
+| [Epithyr-EPIC](https://github.com/CESP-ExpHer/Meta-analysis-Epithyr-EPIC) | Meta-analysis result of Epithyr and EPIC data |
 | [Extracting SNP info](https://github.com/CESP-ExpHer/dbSNP_crawling) | A python code to retrieve the chromosome & position of an SNP (rsID) from NCBI or vice versa |
 | [GPC](https://github.com/CESP-ExpHer/GPC) | Tutorial for working with GPC (an R package for calculating the GWAS power based on the odds ratio, minor allele frequency, and number of samples) |
 | [GWAS Standardization](https://github.com/CESP-ExpHer/GWAS-Standardization) | Standardization of GWAS Summary Statistics data for two traits |
 | [GWAS Standardization 2](https://github.com/CESP-ExpHer/Harmonize) | A tutorial for performing harmonization of GWAS summary statistics |
 | [Liftover GWAS](https://github.com/CESP-ExpHer/Tutorial_GWAS_Human_Assembly_Liftover) | GWAS Data Liftover (from hg19 to hg38 and vice versa) |
 | [Liftover Genes](https://github.com/CESP-ExpHer/Tutorial_Genes_Human_Assembly_Liftover) | Genes Data Liftover (from hg19 to hg38 and vice versa) |
+| [LocusZoom](https://github.com/CESP-ExpHer/locuszoom) | A tutorial explaining how to use LocusZoom tool available in our local server for your GWAS data |
 | [mrMediator](https://github.com/CESP-ExpHer/mrMediator) | A tutorial to run Mediator MR  |
 | [MVMR](https://github.com/CESP-ExpHer/MVMR) | A tutorial to run Multivariable Mendelian randomization analysis |
 | [MR-TwoSample](https://github.com/CESP-ExpHer/TwoSample-MR) | A tutorial to provide two sample Mendelian Randomization |
