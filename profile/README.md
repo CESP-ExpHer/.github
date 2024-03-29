@@ -17,6 +17,7 @@ Here are some of our most popular repositories and a brief description:
 | [ANNOVAR](https://github.com/CESP-ExpHer/Tutorial_ANNOVAR) | A tool for Functional annotation of genetic variants |
 | [ASSET](https://github.com/CESP-ExpHer/Tutorial_ASSET) | ASSET for exploring Pleiotropy |
 | [Docker](https://github.com/CESP-ExpHer/Tutorial_Docker) **(Private)** | Tutorial for working with Docker |
+| [Docker RStudio](https://github.com/CESP-ExpHer/Tutorial_Docker_RStudio) | Tutorial for Creating RStudio with Docker |
 | [EPIC](https://github.com/CESP-ExpHer/Association-test-on-EPIC) **(Private)** | Association tests results on EPIC data |
 | [Epithyr Info](https://github.com/CESP-ExpHer/Association-test-on-Epithyr) **(Private)** | Association tests results on Epithyr data (different versions) |
 | [Epithyr-EPIC](https://github.com/CESP-ExpHer/Meta-analysis-Epithyr-EPIC) **(Private)** | Meta-analysis result of Epithyr and EPIC data |
