@@ -32,7 +32,7 @@ Here are some of our most popular repositories and a brief description:
 | [LocusZoom](https://github.com/CESP-ExpHer/locuszoom) **(Private)** | A tutorial explaining how to use LocusZoom tool available in our local server for your GWAS data |
 | [Meta-Analysis with GWAMA](https://github.com/CESP-ExpHer/Meta-Analysis_with_GWAMA) **(Private)** | A tutorial to run GWAS Meta-Analysis with GWAMA |
 | [Plink](https://github.com/CESP-ExpHer/GWAS_with_Plink) **(Private)** | A tutorial to run logistic regression using PLINK on GWAS individual-level data |
-| **Tutorials_Mendelian Randomization** | **Description** |
+| **Tutorials_Mendelian_Randomization** | **Description** |
 | [mrMediator](https://github.com/CESP-ExpHer/mrMediator) | A tutorial to run Mediator MR  |
 | [MVMR](https://github.com/CESP-ExpHer/MVMR) **(Private)** | A tutorial to run Multivariable Mendelian randomization analysis |
 | [MR-TwoSample](https://github.com/CESP-ExpHer/TwoSample-MR) **(Private)** | A tutorial to provide two sample Mendelian Randomization |
@@ -41,6 +41,6 @@ Here are some of our most popular repositories and a brief description:
 | [Epithyr Info](https://github.com/CESP-ExpHer/Association-test-on-Epithyr) **(Private)** | Association tests results on Epithyr data (different versions) |
 | [Epithyr-EPIC](https://github.com/CESP-ExpHer/Meta-analysis-Epithyr-EPIC) **(Private)** | Meta-analysis result of Epithyr and EPIC data |
 | [UKBB Procedure](https://github.com/CESP-ExpHer/UKBB-PROCEDURES) **(Private)** | Some tutorials describing procedures for working with the UKBB |
-| **Programming / Working with Server** | **Description** |
+| **Programming_Server** | **Description** |
 | [Programming Tips](https://github.com/CESP-ExpHer/Programming_Tips) | Some useful tips for programming (ex., a Fast Way to read or write Big Text Data in R, dplyr Library for Fast Operations in R, Calculation of Very Small Values for P-value based on beta and se) |
 | [Working with Server](https://github.com/CESP-ExpHer/Working_with_Server) **(Private)** | some information for the ones who want to work on the CESP-ExpHer Linux Server |
