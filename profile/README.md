@@ -19,7 +19,7 @@ Here are some of our most popular repositories and a brief description:
 | [Docker R](https://github.com/CESP-ExpHer/Tutorial_Docker_R) | Tutorial for Creating R with Docker |
 | [Docker RStudio](https://github.com/CESP-ExpHer/Tutorial_Docker_RStudio) | Tutorial for Creating RStudio with Docker |
 | [Docker Python](https://github.com/CESP-ExpHer/Tutorial_Docker_Python) | Tutorial for Creating Python with Docker |
-| **Tutorials_GWAS** | **Description** |
+| **GWAS** | **Description** |
 | [Annotate GWAS Data](https://github.com/CESP-ExpHer/Gene_Annotation) | Annotation of GWAS data using an annotation file: A comprehensive survey considering annotation files from different databases |
 | [ANNOVAR](https://github.com/CESP-ExpHer/Tutorial_ANNOVAR) | A tool for Functional annotation of genetic variants |
 | [Extracting SNP info](https://github.com/CESP-ExpHer/dbSNP_crawling) | A python code to retrieve the chromosome & position of an SNP (rsID) from NCBI or vice versa |
@@ -32,7 +32,7 @@ Here are some of our most popular repositories and a brief description:
 | [LocusZoom](https://github.com/CESP-ExpHer/locuszoom) **(Private)** | A tutorial explaining how to use LocusZoom tool available in our local server for your GWAS data |
 | [Meta-Analysis with GWAMA](https://github.com/CESP-ExpHer/Meta-Analysis_with_GWAMA) **(Private)** | A tutorial to run GWAS Meta-Analysis with GWAMA |
 | [Plink](https://github.com/CESP-ExpHer/GWAS_with_Plink) **(Private)** | A tutorial to run logistic regression using PLINK on GWAS individual-level data |
-| **Tutorials_Mendelian_Randomization** | **Description** |
+| **Mendelian_Randomization** | **Description** |
 | [mrMediator](https://github.com/CESP-ExpHer/mrMediator) | A tutorial to run Mediator MR  |
 | [MVMR](https://github.com/CESP-ExpHer/MVMR) **(Private)** | A tutorial to run Multivariable Mendelian randomization analysis |
 | [MR-TwoSample](https://github.com/CESP-ExpHer/TwoSample-MR) **(Private)** | A tutorial to provide two sample Mendelian Randomization |
