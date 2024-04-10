@@ -15,7 +15,7 @@ Here are some of our most popular repositories and a brief description:
 | [GCPBays](https://github.com/CESP-ExpHer/GCPBayes-Pipeline) | GCPBayes Pipeline is a tool for exploring pleiotropy at gene-level |
 | [PLACO](https://github.com/CESP-ExpHer/Tutorial_PLACO) | PLACO for exploring Pleiotropy |
 | **Docker** | **Description** |
-| [Docker](https://github.com/CESP-ExpHer/Tutorial_Docker) **(Private)** | Tutorial for working with Docker |
+| [Docker_General](https://github.com/CESP-ExpHer/Tutorial_Docker) **(Private)** | Tutorial for working with Docker |
 | [Docker R](https://github.com/CESP-ExpHer/Tutorial_Docker_R) | Tutorial for Creating R with Docker |
 | [Docker RStudio](https://github.com/CESP-ExpHer/Tutorial_Docker_RStudio) | Tutorial for Creating RStudio with Docker |
 | [Docker Python](https://github.com/CESP-ExpHer/Tutorial_Docker_Python) | Tutorial for Creating Python with Docker |
