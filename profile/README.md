@@ -1,6 +1,6 @@
 ## GitHub Page of Exposome and Heredity Team at CESP
 
-This is the GitHub page for the Exposome and Heredity Team at Centre for Epidemiology and Population Health (CESP), France.
+This is the GitHub page for the Exposome and Heredity Team at the Centre for Epidemiology and Population Health (CESP), France.
 <br>
 <br>
 https://cesp.inserm.fr/en/equipe/exposome-and-heredity
